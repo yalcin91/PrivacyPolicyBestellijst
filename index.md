@@ -1,3 +1,11 @@
+---
+title: ""
+---
+
+<style>
+.page-header { display: none !important; }
+</style>
+
 # PrivacyPolicy voor bestellijst
 
 NL 
